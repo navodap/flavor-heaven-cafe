@@ -741,7 +741,7 @@ h3 {
   position: absolute;
   z-index: 3;
   display: grid;
-  min-width: 125px;
+  min-width: 100px;
   padding: 1rem 1.3rem;
   border-radius: 15px;
   background: var(--yellow);
